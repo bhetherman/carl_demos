@@ -1,7 +1,7 @@
 carl_demos [![Build Status](https://api.travis-ci.org/WPI-RAIL/carl_demos.png)](https://travis-ci.org/WPI-RAIL/carl_demos)
 ==========
 
-#### Remote User Safety Nodes for CARL
+#### Demo Applications for CARL
 For full documentation, see [the ROS wiki](http://ros.org/wiki/carl_demos).
 
 ### License
