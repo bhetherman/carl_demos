@@ -22,6 +22,7 @@ install:
   - ln -s `pwd` /tmp/ws/src/package
   - cd /tmp/ws/src
   - git clone https://github.com/WPI-RAIL/carl_safety.git
+  - git clone https://github.com/RIVeR-Lab/wpi_jaco.git
   - cd ../
   - rosdep install --from-paths src --ignore-src --rosdistro hydro -y
 
