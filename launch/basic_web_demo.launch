@@ -1,4 +1,7 @@
 <launch>
+  <!-- Navigation -->
+  <include file="$(find carl_navigation)/launch/navigation_layered.launch" />
+
   <!-- Safety Nodes -->
   <node name="nav_safety" pkg="carl_safety" type="nav_safety" output="screen" />
 

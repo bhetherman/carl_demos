@@ -28,4 +28,5 @@
   <run_depend>roscpp</run_depend>
   <run_depend>tf2_web_republisher</run_depend>
   <run_depend>web_video_server</run_depend>
+  <run_depend>carl_navigation</run_depend>
 </package>
