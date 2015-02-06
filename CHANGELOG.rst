@@ -2,8 +2,8 @@
 Changelog for package carl_demos
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.5 (2015-02-06)
+------------------
 * Updated launch file to reflect changes in carl_safety
 * Contributors: David Kent
 
