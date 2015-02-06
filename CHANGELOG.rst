@@ -2,6 +2,11 @@
 Changelog for package carl_demos
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Updated launch file to reflect changes in carl_safety
+* Contributors: David Kent
+
 0.0.4 (2014-12-18)
 ------------------
 * travis fix
